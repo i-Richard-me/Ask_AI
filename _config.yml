@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Ask AI Daily
+subtitle: 'AI驱动的知识分享博客。'
+description: '探索大模型在日常学习中的应用，分享AI辅助下的知识获取过程。'
 keywords:
-author: John Doe
-language: en
+author: Richard Wang
+language: 'zh-CN'
 timezone: ''
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
