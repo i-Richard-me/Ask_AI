@@ -1,7 +1,6 @@
 ---
 title: 词性标注（POS Tagging）在NLP中的角色与发展
 date: 2024-07-04
-mathjax: true
 ---
 
 ## 1. 词性标注的基本概念
