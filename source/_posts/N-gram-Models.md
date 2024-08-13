@@ -1,7 +1,6 @@
 ---
 title: N-gram模型深入探讨：应用、挑战与优化
 date: 2024-07-05
-mathjax: true
 ---
 
 ## 1. N-gram模型概述
